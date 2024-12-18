@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "83b7f00e-d053-4119-ad3c-7497a8ce93a2": {
+      "ProjectGuid": "83b7f00e-d053-4119-ad3c-7497a8ce93a2",
+      "DisplayName": "TpFonctionTest.nunit",
+      "ColorIndex": 0
+    },
+    "669985f5-5ca8-464e-99d5-bd245fb60ceb": {
+      "ProjectGuid": "669985f5-5ca8-464e-99d5-bd245fb60ceb",
+      "DisplayName": "TpFonction",
+      "ColorIndex": 1
+    },
+    "e4a741a9-efd6-4e7f-ae62-3d3a1fd376b0": {
+      "ProjectGuid": "e4a741a9-efd6-4e7f-ae62-3d3a1fd376b0",
+      "DisplayName": "TpFinalFonction1test",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

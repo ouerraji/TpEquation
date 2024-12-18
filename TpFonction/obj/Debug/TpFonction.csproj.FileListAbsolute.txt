@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\bin\Debug\TpFonction.exe.config
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\bin\Debug\TpFonction.exe
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\bin\Debug\TpFonction.pdb
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\obj\Debug\TpFonction.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\obj\Debug\TpFonction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\obj\Debug\TpFonction.exe
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\obj\Debug\TpFonction.pdb
+C:\Users\user\Desktop\tpmdrn\TpFonction\TpFonction\obj\Debug\TpFonction.csproj.AssemblyReference.cache
