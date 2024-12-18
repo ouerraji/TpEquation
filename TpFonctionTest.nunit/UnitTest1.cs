@@ -1,6 +1,7 @@
-﻿using NUnit.Framework;
+using NUnit.Framework;
 using TpFonction;
 using System;
+using System.Globalization;
 
 namespace TpFonctionTest.NUnit
 {
@@ -44,6 +45,10 @@ namespace TpFonctionTest.NUnit
         {
             // Arrange
             double a = 1, b = 2, c = 5; // Complex roots x1 = -1 + 2i, x2 = -1 - 2i
+
+            // Force en-US culture for consistent decimal format
+            CultureInfo.CurrentCulture = new CultureInfo("en-US");
+            CultureInfo.CurrentUICulture = new CultureInfo("en-US");
 
             // Act
             Solution result = Program.SolveQuadratic(a, b, c);
